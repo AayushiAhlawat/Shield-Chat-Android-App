@@ -1,4 +1,4 @@
-# Shield Chat
+# 🛡️ Shield Chat
 
 Shield Chat is an Android messaging application developed using **Java** and **Firebase** technologies, with a primary focus on providing users with a seamless and secure communication experience. It utilizes cutting-edge encryption techniques to ensure the privacy and security of user data.
 
