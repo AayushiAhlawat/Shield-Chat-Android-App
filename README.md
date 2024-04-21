@@ -34,7 +34,7 @@ Shield Chat is an Android messaging application developed using **Java** and **F
 2. Add contacts and start communicating securely.
 3. Customize your profile to personalize your digital identity.
 
-## Contributing
+## Contribution
 
 Contributions are welcome! If you'd like to contribute to Shield Chat, please follow these steps:
 
